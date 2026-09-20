@@ -15,7 +15,7 @@ for...in
 while
 do...while
 
-Branching statements
+Jump statements
 
 break
 continue
