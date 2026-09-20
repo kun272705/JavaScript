@@ -2,7 +2,7 @@ Control flow statements
 
 Conditional statements
 
-if
+if...else if...else
 switch
 
 Iteration statements
@@ -23,5 +23,5 @@ return
 Exception handling statments
 
 throw
-try
+try...catch...finally
 
