@@ -6,10 +6,10 @@ switch
 
 for
 for...of
+for await...of
 for...in
 while
 do...while
-for await...of
 
 break
 continue
