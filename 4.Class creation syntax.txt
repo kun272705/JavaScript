@@ -1,2 +1,4 @@
 Class creation syntax
 
+The class declaration creates a binding of a new class to a given name.
+
