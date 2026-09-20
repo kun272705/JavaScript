@@ -1,8 +1,12 @@
 Control flow statements
 
+Conditional statements
+
 if
 if...else
 switch
+
+Iteration statements
 
 for
 for...of
@@ -10,6 +14,8 @@ for await...of
 for...in
 while
 do...while
+
+Branching statements
 
 break
 continue
