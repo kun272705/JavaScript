@@ -1,4 +1,4 @@
-Primitive data types
+Built-in types
 
 string
 number
@@ -7,4 +7,3 @@ boolean
 undefined
 symbol
 null
-
